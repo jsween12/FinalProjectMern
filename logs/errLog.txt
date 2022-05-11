@@ -1,0 +1,221 @@
+20220428	19:27:56	797384fc-d18f-4612-b76e-5c846efef016	TypeError: Cannot read properties of undefined (reading 'state')
+20220428	19:28:58	07f22d8a-80c2-4d64-9613-2f11ff45af2b	TypeError: Cannot read properties of undefined (reading 'states')
+20220428	19:30:02	8c31935c-7567-47fd-ac50-4e8ebe7b74a0	ReferenceError: response is not defined
+20220428	19:30:46	3672c1da-5e17-411b-9953-8a05ed880e97	ReferenceError: response is not defined
+20220428	19:54:48	e735bd2f-0ceb-41d6-93d3-c18f9d48c265	TypeError: 3 arguments required, but only 1 present
+20220428	19:58:26	ef1924d4-e5b2-4557-b285-cc0379a28b16	TypeError: 3 arguments required, but only 1 present
+20220428	19:59:25	1a7f56d9-911c-40d3-af37-504d6b721cb0	TypeError: ks is not a function
+20220428	20:01:23	ea81a42b-eae2-4404-ba64-289eac19d6c4	TypeError: 3 arguments required, but only 1 present
+20220428	20:01:50	5b14569d-595d-4f58-a848-73d9f3c4eb34	TypeError: 3 arguments required, but only 1 present
+20220428	20:04:23	a1f49c57-3daf-456d-957d-43e0f3853392	TypeError: parseJSON is not a function
+20220428	20:06:17	f0bcbd92-d0b5-465b-81c3-fd8c1706c39f	TypeError: 3 arguments required, but only 1 present
+20220428	20:08:30	35cd9ee3-162d-4488-834c-bcd8b46fb577	TypeError: 3 arguments required, but only 1 present
+20220429	08:06:13	eb45b611-ef81-4fd7-8ae4-1b68e24f9f53	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+20220429	08:07:29	004c12cd-5bef-4a03-89fe-b870ca9105e1	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+20220429	08:16:02	ca371a6e-53cf-43dc-ad58-0b8fef599ca3	ReferenceError: CD is not defined
+20220429	08:17:25	b2d98c03-42ce-4839-907b-08f3ee57a7ec	TypeError: KS is not a function
+20220429	08:32:53	f8cbfba5-51aa-4e88-a40d-7074ea1d22ad	TypeError: 3 arguments required, but only 1 present
+20220429	08:34:26	73c006b3-cb32-416b-a7fb-028370ca2e62	TypeError: 3 arguments required, but only 1 present
+20220429	08:35:08	5307b5bf-b466-48b3-97db-e3ef10eb4a0d	TypeError: 3 arguments required, but only 1 present
+20220429	08:37:17	7c9946c4-224f-4fa2-8d7f-c5dd4fef60ca	TypeError: 3 arguments required, but only 1 present
+20220429	08:37:44	6ad08087-c81b-48b5-9348-80cb6aa22a42	TypeError: 3 arguments required, but only 1 present
+20220429	08:37:51	a86758d8-27ca-45a2-8766-28e218e6d0d5	TypeError: 3 arguments required, but only 1 present
+20220429	08:40:38	9b41a165-23d6-4a48-a315-39ea463b2d49	TypeError: 3 arguments required, but only 1 present
+20220429	08:40:42	45b2e4b7-4762-4f48-939e-9f84b151244e	TypeError: 3 arguments required, but only 1 present
+20220429	08:41:41	bd711204-0b43-4b65-b6d6-bc779377e17e	TypeError: 3 arguments required, but only 1 present
+20220429	08:42:49	62d1389e-ca18-47cb-a3e4-f02dc62b9bba	TypeError: 3 arguments required, but only 1 present
+20220429	08:43:07	ade63454-98db-45c2-8332-d13e8e408d2e	TypeError: 3 arguments required, but only 1 present
+20220429	08:46:00	c072690e-22de-4b7c-ac5b-283c54f7569b	TypeError: 3 arguments required, but only 1 present
+20220429	08:46:56	c80c5723-fbbf-4488-bb0f-2b3043132c57	ReferenceError: parse is not defined
+20220429	08:47:18	49907be5-86e6-4097-9d54-a32d09935952	ReferenceError: parse is not defined
+20220429	08:47:35	f99e6250-7af6-477e-9a5d-a79b1fcd38f4	TypeError: 3 arguments required, but only 1 present
+20220429	08:49:37	6befe60f-69af-4a2e-88a1-d938a7fd3371	ReferenceError: parse is not defined
+20220429	08:53:07	7bfa86d0-dbae-4a44-ab33-3257a4009996	ReferenceError: parse is not defined
+20220429	08:55:10	33996162-7fb4-4640-b1f8-146f987bf3a9	ReferenceError: parse is not defined
+20220429	08:55:24	a7a4edab-84a4-4c31-a7ed-8fe84b2b5514	ReferenceError: parse is not defined
+20220429	08:58:00	702f747a-0bf6-4eee-86d4-b7ed79a22bc6	ReferenceError: parse is not defined
+20220429	12:11:25	5c556ca3-0f48-48aa-9e10-21eaa4e76fc6	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:14:22	7bec8347-376c-42f5-af7f-e1440ea57176	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:14:38	1e628307-82b3-4b6b-8661-12b41adb4767	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:17:45	48c4fcab-d06a-4855-b927-d035f7fb074e	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:17:56	a6cdd88f-da2e-476f-8f97-7b7df57956b8	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:18:16	f8607270-1517-495a-a5c9-978c9bb06560	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:18:39	9b72aa0c-7fb6-4103-966d-fd766b60dff8	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:23:47	867ed023-a5a7-4717-b0a2-6ee2e15313ce	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:26:37	834eb9cf-bc03-486e-bc2d-5f4d254c8e92	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:31:01	3edab17e-a4ec-4ee2-bdf9-ad65c34857e2	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:35:17	38d2e117-7a81-441e-81f7-ad83bccbd5a9	TypeError: Cannot read properties of undefined (reading 'state')
+20220429	12:37:14	99f98355-d97a-437e-898c-f5984ff06366	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:50:12	217f6510-cd7d-4bb4-afba-4e227a2a61df	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:50:22	f42a758a-0e30-4e15-b8ae-5d63817f8d28	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:50:46	6ff5288b-f638-4b31-93bd-3d194195bb25	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:51:06	9aff7494-4486-44bc-9961-3aa507a87125	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:51:42	69432e1a-a0db-4cd9-97c6-da744fb0acf0	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:52:58	66e9856c-ab15-4ee4-9c3e-126b7799b7e4	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:53:16	96ec5774-2e22-477a-a3d4-e83f741aee6f	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:53:17	5e7c1f2a-e7bd-4b6c-bf15-0072271e828d	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:53:46	5abd1dc3-f1af-43ca-8ae2-51446ba5b8e8	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	12:54:19	95e8d119-5090-42e7-b9ee-bd8e6c934b0e	TypeError: Cannot read properties of undefined (reading 'params')
+20220429	13:02:16	7d9a7641-fcab-4398-8bd8-502382dea5c8	TypeError: Cannot read properties of undefined (reading 'find')
+20220429	13:02:24	572b9f86-aa6f-43ea-8b17-6cf693ff1dc8	TypeError: Cannot read properties of undefined (reading 'find')
+20220429	13:02:45	f3abf52b-d20a-43c8-a752-7c2fe44f76d1	TypeError: Cannot read properties of undefined (reading 'find')
+20220429	13:04:27	dc20f6b5-682b-42c5-9346-1333d6a2bd11	TypeError: Cannot read properties of undefined (reading 'find')
+20220429	13:05:25	8596d3db-716f-4561-a20c-58cde9e12776	TypeError: Cannot read properties of undefined (reading 'req')
+20220429	13:07:00	e1358dac-48de-4d6f-8a18-6e203cdee23f	TypeError: Cannot read properties of undefined (reading 'single_state_capital')
+20220429	13:07:18	0ae075a6-307d-4a67-a5bc-e64f1d819d35	TypeError: Cannot read properties of undefined (reading 'single_state_capital')
+20220429	13:07:36	2db5079f-b71d-42ac-95dc-14c90d64835c	TypeError: Cannot read properties of undefined (reading 'single_state_capital')
+20220429	13:10:08	1f779063-55b1-45d0-97e3-a88f23a24d71	TypeError: res is not a function
+20220429	13:10:28	cd305d9b-ccf1-4c55-8354-1d21472e6913	TypeError: Cannot read properties of undefined (reading 'state')
+20220429	13:57:27	72c246e4-dbbd-4ce0-bb8d-a0f223c0a92f	ReferenceError: json is not defined
+20220429	13:57:40	77e49747-dc21-4b22-b560-3e90db7a99ba	ReferenceError: json is not defined
+20220429	14:01:30	fcbe42b9-38a0-44d2-b81a-e4663063edea	ReferenceError: json is not defined
+20220429	14:02:46	775cf76c-8f3b-4252-82a8-908da25de6df	TypeError: res.singleStateJSON is not a function
+20220429	14:20:35	a6f7e3cc-b10b-4ef9-a21d-c61701a06108	ReferenceError: parse is not defined
+20220429	14:25:16	8a6be2d6-55a8-4280-aa4f-c49bdd963679	TypeError: Assignment to constant variable.
+20220429	14:31:54	f55fc1d3-2348-497a-893e-a7f7ba06177d	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+20220502	13:09:26	fda62df3-24e5-474f-a679-ffa37f5366d0	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+20220502	13:09:31	1c2784f5-46df-4090-abe2-4e051ddfca10	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+20220502	13:26:21	71cb0fde-5ea8-4494-b83c-599989a64e68	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+20220502	13:49:06	587a4ba8-bb08-4f10-8d0c-fd239d5d7ec0	TypeError: Cannot read properties of undefined (reading 'contig')
+20220502	13:51:03	4738aede-8fc4-4681-9c53-cf23b9bb9915	TypeError: Cannot read properties of undefined (reading 'contig')
+20220502	13:51:09	7797b8da-90d6-4430-9adf-f5f0e47b174a	TypeError: Cannot read properties of undefined (reading 'contig')
+20220502	13:52:28	19a53d42-f88b-4b68-83ec-a594bd0f7913	TypeError: Cannot read properties of undefined (reading 'contig')
+20220502	13:52:30	f2006d3f-463f-4cca-b5c1-6bf32a760ec6	TypeError: Cannot read properties of undefined (reading 'contig')
+20220502	13:59:18	b709ce72-bad7-4a7e-b223-d7a924f82572	TypeError: Assignment to constant variable.
+20220503	18:28:46	6044d8d3-d661-41da-a600-89684f0b6c7d	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+20220503	18:28:49	6f2dc8c1-2bf9-4a8e-8c12-29af0c7afc7d	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+20220503	18:28:53	707a43ee-0782-4a0e-a586-9a062600f421	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+20220504	18:21:27	18a7ce72-638a-469b-a319-5763f4498ba0	SyntaxError: Unexpected token [ in JSON at position 44
+20220504	18:21:45	f421c2d9-c523-42fb-84c8-8a79c9eb4c9f	SyntaxError: Unexpected token , in JSON at position 56
+20220504	18:22:19	c3c24bde-2a27-4e1f-9650-727ac96f6c2a	SyntaxError: Unexpected token } in JSON at position 41
+20220504	18:24:31	fa54d9b5-ec22-464d-954d-7834ac6722f1	SyntaxError: Unexpected string in JSON at position 29
+20220504	18:24:36	5a7ebf8c-57df-4dec-b347-d48bff405ba2	SyntaxError: Unexpected string in JSON at position 30
+20220504	18:24:49	5f74712d-5321-43c8-9bb5-090ae74d0185	SyntaxError: Unexpected token . in JSON at position 30
+20220504	18:24:58	e3295117-b16a-44eb-847c-0ec54d2b27f9	SyntaxError: Unexpected token . in JSON at position 30
+20220504	18:25:17	ce307b4d-c6c5-43b5-b3fa-c1d5455fce2b	SyntaxError: Unexpected token S in JSON at position 37
+20220504	18:25:22	e4717229-8331-4432-8ef3-8cd9f5f232ea	SyntaxError: Unexpected token S in JSON at position 37
+20220504	18:27:09	cc8bf233-0574-4e1e-af01-d659b742ca2e	SyntaxError: Unexpected token [ in JSON at position 16
+20220504	18:28:41	d9ec3773-0656-46cd-afb7-4b307ae059e3	SyntaxError: Unexpected token } in JSON at position 47
+20220504	18:34:35	044ccc79-6eea-4960-ab29-1b142acf7aa0	SyntaxError: Unexpected token [ in JSON at position 16
+20220504	18:37:27	96fb87dc-9804-4a3f-857b-19accc688a2d	SyntaxError: Unexpected token , in JSON at position 36
+20220504	18:37:49	fb7460fb-3229-420e-a636-61f0020a59ee	SyntaxError: Unexpected token , in JSON at position 36
+20220504	20:37:14	f96b116a-d268-4aae-a1f4-0c6551b57029	SyntaxError: Unexpected token " in JSON at position 0
+20220505	14:27:03	30d756ae-50fe-4348-b1d4-a97b15f31c68	SyntaxError: Unexpected string in JSON at position 15
+20220505	15:48:00	087f76f3-c97e-445b-9efb-92ce3e475c64	TypeError: data.filter is not a function
+20220505	15:48:02	8170562b-4b51-4515-b0a4-8669f5434f39	TypeError: data.filter is not a function
+20220505	15:52:14	67bd2fa3-71c0-4996-ad7a-8b7cc496aa22	ReferenceError: json is not defined
+20220505	16:09:34	a26b37e9-8d62-4aef-a3c5-151b313b64fd	TypeError: Assignment to constant variable.
+20220505	16:10:38	b3c013bd-9550-46e5-afbe-9fa4a222cdc1	TypeError: Assignment to constant variable.
+20220505	16:11:24	90191d29-4d68-47c6-bcf4-b1765811c7a6	TypeError: Assignment to constant variable.
+20220505	16:12:25	2b9b9ab9-0dff-4879-b7d7-b24ab60e32c1	ReferenceError: err is not defined
+20220505	16:12:48	07ccd4a2-6198-4894-aa28-ee88e04c780d	ReferenceError: err is not defined
+20220505	16:13:00	89507d83-cce1-4a6a-9402-53e2a0039ed4	ReferenceError: err is not defined
+20220505	16:13:20	60851527-261e-47f2-8d8f-3b49178c7d50	ReferenceError: error is not defined
+20220505	16:50:32	efe2e82e-2527-42bc-ba0c-c9c8f99b10b5	SyntaxError: Unexpected end of JSON input
+20220505	16:52:25	69e22db1-7013-4aff-b991-4a443fabc533	SyntaxError: Unexpected end of JSON input
+20220505	16:53:31	185bccc7-8e3a-4fbc-a9da-105f5eb732ff	SyntaxError: Unexpected end of JSON input
+20220505	16:56:44	4d6b1f78-b0c6-4237-8f04-45af6de4641f	SyntaxError: Unexpected end of JSON input
+20220505	16:58:47	68860093-33d5-4084-a18c-50a7dd68bf40	SyntaxError: Unexpected end of JSON input
+20220505	16:58:55	cbff386a-7ed8-45f0-aef7-0fb12c020f0c	SyntaxError: Unexpected end of JSON input
+20220505	17:00:04	b8495710-7413-4de3-b1e5-e46f16faae5f	SyntaxError: Unexpected end of JSON input
+20220505	17:00:34	6876d0f9-58b1-4bce-87ee-d95dea77c5cf	SyntaxError: Unexpected end of JSON input
+20220505	17:02:04	b3bbbc14-83df-4b25-9504-cef5543c93af	SyntaxError: Unexpected end of JSON input
+20220505	17:02:40	2be894ff-1bd8-4b73-ac51-c926306baa08	SyntaxError: Unexpected end of JSON input
+20220505	17:04:19	16fd7383-0518-4d8b-a180-a2bd2d50902f	SyntaxError: Unexpected end of JSON input
+20220505	17:04:31	d47aa69f-3292-4caa-9a23-c7653a0c267f	TypeError: res is not a function
+20220509	16:34:38	2ed46757-dc45-4356-8ad2-4135db867ceb	SyntaxError: Unexpected token } in JSON at position 24
+20220509	18:01:40	382011be-4b2f-4bb4-913c-6f31e668f574	ReferenceError: statesArray is not defined
+20220509	18:02:31	6e8f7670-9c71-45fd-a265-30af291f13f2	TypeError: res.json is not a function
+20220509	18:03:22	2028ceba-3f61-48da-93ca-697ca2bebb41	TypeError: res.json is not a function
+20220509	18:04:51	e5474bab-c932-4a30-9736-80560fca66a7	TypeError: res.json is not a function
+20220509	18:21:04	69cc6dc3-2726-4479-8fe7-5cabc51991e5	Error: Cannot set headers after they are sent to the client
+20220509	18:21:10	79aa052a-0ac7-430c-836a-44eae63c5675	Error: Cannot set headers after they are sent to the client
+20220509	18:21:19	42a5030a-1936-4287-9932-1787668ef373	Error: Cannot set headers after they are sent to the client
+20220509	19:49:28	4d08801a-bed3-4e14-9c4f-fbc22f37b4b0	TypeError: Assignment to constant variable.
+20220509	19:52:13	c424ea97-0bf8-4636-bbb2-f9d6566cc348	TypeError: [object Array] is not a function
+20220509	19:53:16	da13744f-3ac5-449a-b3e6-5f501806406f	TypeError: undefined is not a function
+20220509	20:34:18	c6be81a6-567d-4e23-bc43-061c98104622	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Mongoose'
+    |     property 'connections' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 'NativeConnection'
+    --- property 'base' closes the circle
+20220509	20:54:28	044853cb-7066-469d-8e20-dc7add672cb5	ReferenceError: sleep is not defined
+20220510	16:24:49	ac033f8a-e694-496d-9d36-714265af8f7b	TypeError: OK is not a function
+20220510	16:25:03	b5a46035-e1d8-44a9-a59e-ced06a7f8c8a	TypeError: OK is not a function
+20220510	16:26:04	0c904343-98bc-4176-ba77-c6fcce3af3ac	TypeError: OK is not a function
+20220510	16:28:09	06d86cea-f531-4cc4-8024-79eeac2301fe	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+20220510	16:28:35	67b3ca4e-a1c2-4fce-b0ba-aa3f2443392b	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+20220510	16:29:56	7f03591e-0ff5-4a73-9cec-8ebc28188163	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+20220510	16:32:01	13e89221-305a-4f0a-ad44-2920e772c5a5	ReferenceError: statesAbbr is not defined
+20220510	16:32:39	a13dad97-fb9b-49e4-acb3-f4236bdf0e1d	TypeError: OK is not a function
+20220510	16:33:40	4f70c87f-19ea-4d3a-bc67-aa3ab537df94	TypeError: OK is not a function
+20220510	16:34:50	ee6a37ac-c333-4171-8f78-4c4c42bdfc9c	TypeError: OK is not a function
+20220510	16:36:23	d333b634-e1ec-4ec0-8089-1891d270fd2b	TypeError: #<Object> is not a function
+20220510	16:39:04	0fa42646-a132-4d1b-a831-dfc084997f2b	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+20220510	16:40:36	b5826c10-8023-4551-b486-ecdcb14c1f2e	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+20220510	16:42:39	b5d54a75-8a4d-484c-b2af-dd822336494e	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+20220510	16:43:43	c056da36-c085-4ba7-bf72-e6184eb2f993	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle

@@ -1,0 +1,51 @@
+
+//this function responds to requests to "/states" including if a contig query is sent. 
+const getAllStates = (req, res) => {
+    //identify if contig query has been sent:
+
+    if(req.query.contig === "true" || req.query.contig === "false"){
+    var contig = req.query.contig; 
+    contigHandler(req, res, contig); 
+    }
+    
+    //if no contig param is sent, then respond with all states data:
+    //get a new array that holds the states.data object merged with the funfacts pulled from the db
+
+
+
+    let StateArrayOfObjects = data.states; 
+    const newArray = []; 
+ 
+    
+    
+
+    const mergeObjects = async function (element) {
+        
+
+                //for each element of the foreach loop, look up a funfact
+            const funFactObject = await funfact.findOne({code: element.code}).exec(); 
+
+            
+            //if there is a funfact in the db, then element.funfact is set
+                if (funFactObject!== null) {
+                
+                    element.funfacts = [...funFactObject.funfact]; 
+                    newArray.push(element);
+                    console.log(element); 
+                    
+                }
+            
+            //If there isn't one, the element's funfact should be set to null. 
+                else{
+                    element.funfacts = []; 
+                    newArray.push(element);
+                    console.log(element); 
+
+                }
+
+            }
+
+    StateArrayOfObjects.forEach(mergeObjects); 
+      console.log(newArray);
+        res.json(newArray); 
+}
