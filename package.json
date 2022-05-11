@@ -1,13 +1,13 @@
 {
-  "name": "09tut",
+  "name": "Final Project",
   "version": "1.0.0",
-  "description": "Express tutorial",
+  "description": "Final project built off of example",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Dave Gray",
+  "author": "Jonathan Sweeney",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
