@@ -9,6 +9,9 @@
   },
   "author": "Jonathan Sweeney",
   "license": "ISC",
+  "engines": {
+    "node": "14.x"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "date-fns": "^2.23.0",
@@ -19,8 +22,6 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
-  },
-  "engines": {
-    "node": "14.x"
   }
+  
 }
